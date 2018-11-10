@@ -1,0 +1,10 @@
+gibo 2.1.0 by Simon Whitaker <sw@netcetera.org>
+https://github.com/simonwhitaker/gibo
+### https://raw.github.com/github/gitignore/318f8fc99146275e0828737ac2898930c6d8342f/Scala.gitignore
+
+*.class
+*.log
+
+
+target/
+.idea/
