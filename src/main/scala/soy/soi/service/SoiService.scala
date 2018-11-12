@@ -1,5 +1,9 @@
 package soy.soi.service
 
-object SoiService {
+import soy.soi.model.Soi
 
+object SoiService {
+  def addSoi(soi: Soi): Unit = {
+    println(s"add soi $soi")
+  }
 }
